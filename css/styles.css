@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(white, lightblue);
+}
+#quote {
+  font-style: italic;
+  text-align: justify;
+}
+.font {
+  font-family: sans-serif;
+  font-size: 20px;
+}
