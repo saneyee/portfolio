@@ -12,5 +12,7 @@ body {
 .edu {
   margin: 2px;
   padding: 2px;
-
+}
+.light{
+  font-style: italic;
 }
