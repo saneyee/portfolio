@@ -13,6 +13,13 @@ body {
   margin: 2px;
   padding: 2px;
 }
-.light{
+.light {
   font-style: italic;
+}
+.highlights {
+  margin-top: 200px;
+  border: 2px solid lightblue;
+  padding: 10px;
+  float: left;
+  font-family: sans-serif;
 }
